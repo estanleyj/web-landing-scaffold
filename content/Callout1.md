@@ -18,9 +18,9 @@ hide: false               # Hides Element
 
 <section>
 
-### World class chickens from coop to stoop
+### Big ass dogs get good ass minding
 
-Some people like chickens, we do too. So much in fact that we put them on our farm to grow fat and delicious until delivered to your stoop.
+We freakin' love dogs over here and we love minding them. I mean it we got the best daycare in all a new york city. We take em, we mind em, we can give em injections. Its kinda safe
 
 </section>
 

@@ -12,15 +12,14 @@ hide: false                # Hides Element
   Notes:
  -->
 
-## Checkout All of our chickens
+## We all got reasons...  
 
-Have a hankering for some wings? Maybe a leg? View and reserve your bird now!
-
+For having dogs. They're sometimes good, sometimes bad. We know this! Here are some more reasons:
 
 <section>
   <section>
 
-  ### Cool
+  ### Nice dog
 
   ![Koala](/images/coop-4.png)
 
@@ -31,7 +30,7 @@ Have a hankering for some wings? Maybe a leg? View and reserve your bird now!
 
   <section>
 
-  ### Mean
+  ### Big ass
 
   ![Koala](/images/coop-4.png)
 
@@ -43,7 +42,7 @@ Have a hankering for some wings? Maybe a leg? View and reserve your bird now!
 <section>
   <section>
 
-  ### Young
+  ### Tight
 
   ![Koala](/images/coop-4.png)
 
@@ -54,7 +53,7 @@ Have a hankering for some wings? Maybe a leg? View and reserve your bird now!
 
   <section>
 
-  ### Regal
+  ### Sexy ass dog
 
   ![Koala](/images/coop-4.png)
 

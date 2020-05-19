@@ -10,7 +10,7 @@ hide: false               # Hides Element
 
 <section>
 
-Sign up for a coop to stoop today
+Sign up to get ridda that dog!
 
 <a href="/#get-started" class="callout-cta">Sign Up</a>
 
